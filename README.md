@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PreCourse de Hemry
+Este proyecto es una prueba de cmoo crear un repositorio y clonarlo desde GtHub a mi escrotorio local
